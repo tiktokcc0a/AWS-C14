@@ -1,0 +1,28 @@
+[
+    {
+        "mailbox": "glcr07dn@bekikhani.com----K1SdoJ4sN5c7",
+        "account": "glcr07dn@bekikhani.com",
+        "password": "K1SdoJ4sN5c7",
+        "1step_number": "4160210846056797",
+        "1step_month": "09",
+        "1step_year": "2027",
+        "1step_code": "158",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1113",
+        "real_name": "Deo Raymond Ignatius",
+        "street": "poly",
+        "city": "Lagos",
+        "state": "Lagos",
+        "postcode": "830330",
+        "country_full_name": "Nigeria",
+        "country_code": "NG",
+        "phone_number_id": "812790150",
+        "phone_number": "8150779210",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=812790150&platform=smshub",
+        "numeric_id": 19,
+        "dialing_code": "234",
+        "email_api_provider": "Domain"
+    }
+]

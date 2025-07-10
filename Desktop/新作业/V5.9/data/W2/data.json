@@ -1,0 +1,28 @@
+[
+    {
+        "mailbox": "lx04lv@thewrightbait.com----SjhH04kyvVMp",
+        "account": "lx04lv@thewrightbait.com",
+        "password": "SjhH04kyvVMp",
+        "1step_number": "4160210831391381",
+        "1step_month": "09",
+        "1step_year": "2026",
+        "1step_code": "100",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1113",
+        "real_name": "Hdfc Bank",
+        "street": "ADJACENT OPIC TOWER,IBAR",
+        "city": "Lagos",
+        "state": "Lagos",
+        "postcode": "674044",
+        "country_full_name": "Nigeria",
+        "country_code": "NG",
+        "phone_number_id": "812790058",
+        "phone_number": "8136667312",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=812790058&platform=smshub",
+        "numeric_id": 19,
+        "dialing_code": "234",
+        "email_api_provider": "Domain"
+    }
+]

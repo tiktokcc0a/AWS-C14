@@ -1,0 +1,28 @@
+[
+    {
+        "mailbox": "kf6i5n8mc@zhengjike.com----HFJvbggDguD27M",
+        "account": "kf6i5n8mc@zhengjike.com",
+        "password": "HFJvbggDguD27M",
+        "1step_number": "5218071813794318",
+        "1step_month": "06",
+        "1step_year": "2029",
+        "1step_code": "100",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1113",
+        "real_name": "Ann Gibson",
+        "street": "montée Âne rouge",
+        "city": "Limbe",
+        "state": "Limbe",
+        "postcode": "929981",
+        "country_full_name": "Cameroon",
+        "country_code": "CM",
+        "phone_number_id": "3815763471",
+        "phone_number": "656288533",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3815763471&platform=sms",
+        "numeric_id": 41,
+        "dialing_code": "237",
+        "email_api_provider": "Domain"
+    }
+]
