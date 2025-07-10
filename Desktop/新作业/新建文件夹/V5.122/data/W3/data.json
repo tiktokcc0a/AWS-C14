@@ -1,0 +1,29 @@
+[
+    {
+        "mailbox": "34patzdkh@682077.net----R3rTdN5geB",
+        "account": "34patzdkh@682077.net",
+        "password": "R3rTdN5geB",
+        "1step_number": "4283322119110862",
+        "1step_month": "10",
+        "1step_year": "2028",
+        "1step_code": "954",
+        "2step_number": "3584030116427522",
+        "2step_year": "20",
+        "2step_month": "2706",
+        "2step_code": "1186",
+        "real_name": "Mohd Nasir",
+        "street": "Franka Lisice, 85",
+        "city": "Zadar",
+        "state": "Zadar",
+        "postcode": "23000",
+        "country_full_name": "Croatia",
+        "country_code": "HR",
+        "proxy_country_code": "HR",
+        "phone_number_id": "3818393721",
+        "phone_number": "957402041",
+        "phone_number_url": "https://api.small5.co/hub/en/proxy.php?action=getStatus&id=3818393721&platform=sms",
+        "numeric_id": 45,
+        "dialing_code": "385",
+        "email_api_provider": "Domain"
+    }
+]
